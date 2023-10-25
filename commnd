@@ -1,0 +1,4 @@
+git clone repo
+git add .
+git commit -m "estructura inicial"
+git push
